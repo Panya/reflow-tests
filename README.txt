@@ -7,7 +7,7 @@
 
 Убеждаемся, что директории с Python и JAVA у нас в PATH, если нет, добавляем их туда.
 Клонируем куда-нибудь собственно сами тесты:
-git clone https://github.com/panya/reflow-tests tests
+git clone git://github.com/Panya/reflow-tests.git tests
 
 Запуск тестов
 
