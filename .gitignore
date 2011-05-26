@@ -1,0 +1,10 @@
+*.pyc
+*.swp
+.svn/
+/.settings
+.idea
+.DS_Store
+.fseventsd
+.Trashes
+.metadata
+.project
